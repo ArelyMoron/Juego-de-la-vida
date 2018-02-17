@@ -4,7 +4,9 @@ Implementacion del juego de la vida de Conway en c#.
 El juego de la vida es un automata celular de cero jugadores donde a partir 
 de un estado inicial se van dando generaciones en base a dos reglas.
 
-* Una célula muerta con exactamente 3 células vecinas vivas "nace"
+* Una cÃ©lula muerta con exactamente 3 cÃ©lulas vecinas vivas "nace"
 
-* Una célula viva con 2 ó 3 células vecinas vivas sigue viva, en otro caso 
-muere o permanece muerta (por "soledad" o "superpoblación").
+* Una cÃ©lula viva con 2 Ã³ 3 cÃ©lulas vecinas vivas sigue viva, en otro caso 
+muere o permanece muerta (por "soledad" o "superpoblaciÃ³n").
+
+![alt tag](/img/Captura de pantalla.png)
