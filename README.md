@@ -9,4 +9,3 @@ de un estado inicial se van dando generaciones en base a dos reglas.
 * Una célula viva con 2 ó 3 células vecinas vivas sigue viva, en otro caso 
 muere o permanece muerta (por "soledad" o "superpoblación").
 
-![alt tag](/img/Captura de pantalla.png)
